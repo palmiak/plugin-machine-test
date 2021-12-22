@@ -1,0 +1,19 @@
+{
+    "slug": "buddy-test",
+    "pluginId": 124,
+    "buildId": 130,
+    "entryPoints": {
+        "adminPages": [
+            "buddy-test-plugin"
+        ],
+        "blocks": []
+    },
+    "buildIncludes": [
+        "buddy-test.php",
+        "readme.txt",
+        "php",
+        "vendor",
+        "build",
+        "admin/buddy-test-plugin/init.php"
+    ]
+}
